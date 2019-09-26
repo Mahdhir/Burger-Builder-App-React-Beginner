@@ -1,0 +1,12 @@
+.layout-content{
+    margin-top: 72px;
+}
+
+.layout-auth{
+    /* padding-top: 72px; */
+    background-color: #ffd180;
+    background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+}
